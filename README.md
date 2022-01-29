@@ -9,5 +9,7 @@
 - Learn more about firebase function to automate the push notification.
 
 ## Output
-
-Comming soon!
+<img src="assets/01.jpg" width=300 height=550/>
+<img src="assets/02.jpg" width=300 height=550/>
+<img src="assets/03.jpg" width=300 height=550/>
+<img src="assets/04.jpg" width=300 height=550/>
