@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269135614525",
+    "project_id": "chat-app-c52d3",
+    "storage_bucket": "chat-app-c52d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269135614525:android:9cf231c01a799ec43d9054",
+        "android_client_info": {
+          "package_name": "com.chitraarasu.chat.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269135614525-htiudvpmebmk65l1o963g29rd7m99dvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeSURsn-0_J13JCUmcI1lHuoVAkfhuB_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269135614525-htiudvpmebmk65l1o963g29rd7m99dvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
